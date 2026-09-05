@@ -84,7 +84,12 @@
 Оцінка 1–5, більше — краще. Різниця B і C у межах похибки: **вибір між ними вирішує
 не технологія, а наявність власного інженера і горизонт масштабування.**
 
-## 6. Джерела
+## 6. Детальний функціонал
+
+Пофункційний розбір кожної системи, еталонна модель максимуму можливостей
+і аналіз розривів — у [`08-funktsional-porivnyannya.md`](08-funktsional-porivnyannya.md).
+
+## 7. Джерела
 
 - [Fleet dash cam pricing 2026 — heavyvehicleinspection.com](https://heavyvehicleinspection.com/blog/post/ai-dashcam-roi-netradyne-lytx-samsara-fleet)
 - [Best fleet dash cam systems 2026 — oxmaint.com](https://oxmaint.com/industries/fleet-management/best-fleet-dash-cam-systems-2026-ai-safety-camera)
