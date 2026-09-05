@@ -80,7 +80,13 @@
 - **Профспілка / представники трудового колективу** — доцільно залучити до узгодження
   Положення: це знімає більшу частину майбутніх конфліктів.
 
-## 7. Джерела
+## 7. Суміжні питання
+
+Режим воєнного стану (ст. 114-2 КК, заборона поширення знятого), статус даних DMS про втому,
+скоринг як підстава для кадрових рішень, передача відео правоохоронцям — у
+[`09-dodatkovi-pytannya.md`](09-dodatkovi-pytannya.md).
+
+## 8. Джерела
 
 - [Guidelines 3/2019 on processing of personal data through video devices — EDPB](https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_201903_video_devices.pdf)
 - [EDPB letter on in-car video cameras and dashcams (05.05.2025)](https://edpb.europa.eu/system/files/2025-05/edpb_letter_20250505_in_car-video-cameras-and-dashcams_en.pdf)
